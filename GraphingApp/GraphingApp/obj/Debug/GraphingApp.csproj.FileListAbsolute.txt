@@ -1,0 +1,15 @@
+E:\VS Projects\GraphingApp\GraphingApp\bin\Debug\GraphingApp.exe.config
+E:\VS Projects\GraphingApp\GraphingApp\bin\Debug\GraphingApp.exe
+E:\VS Projects\GraphingApp\GraphingApp\bin\Debug\GraphingApp.pdb
+E:\VS Projects\GraphingApp\GraphingApp\obj\Debug\MainWindow.g.cs
+E:\VS Projects\GraphingApp\GraphingApp\obj\Debug\App.g.cs
+E:\VS Projects\GraphingApp\GraphingApp\obj\Debug\GraphingApp_MarkupCompile.cache
+E:\VS Projects\GraphingApp\GraphingApp\obj\Debug\GraphingApp_MarkupCompile.lref
+E:\VS Projects\GraphingApp\GraphingApp\obj\Debug\MainWindow.baml
+E:\VS Projects\GraphingApp\GraphingApp\obj\Debug\GraphingApp.g.resources
+E:\VS Projects\GraphingApp\GraphingApp\obj\Debug\GraphingApp.Properties.Resources.resources
+E:\VS Projects\GraphingApp\GraphingApp\obj\Debug\GraphingApp.csproj.GenerateResource.Cache
+E:\VS Projects\GraphingApp\GraphingApp\obj\Debug\GraphingApp.csproj.CoreCompileInputs.cache
+E:\VS Projects\GraphingApp\GraphingApp\obj\Debug\GraphingApp.exe
+E:\VS Projects\GraphingApp\GraphingApp\obj\Debug\GraphingApp.pdb
+E:\VS Projects\GraphingApp\GraphingApp\obj\Debug\GraphingApp.csprojResolveAssemblyReference.cache
